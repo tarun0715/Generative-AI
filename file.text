@@ -1,0 +1,8 @@
+#Install all requirement
+1. streamlit
+2. genai
+3. pillow
+
+
+#Generate a Key from Gemini 
+1. Generate a Key from Gemini and save it in the terminal
